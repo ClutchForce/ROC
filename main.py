@@ -31,11 +31,13 @@ print_excel_content(excel_file_path, sheet_name="Jan 2026")  # Replace "Sheet1" 
 #1-5 can be both debit and credit
 # Both credit and depit positive. D\C 
 
+# Chart of Accounts Codes
 #1 - Assets
 #2 - Liabilities
-#3 - EXCESS (DEFICIT) OF REVENUE OVER EXPENDITURES (Retained Earnings / Equity)
+#3 - Equity/Deficit	( EXCESS (DEFICIT) OF REVENUE OVER EXPENDITURES (Retained Earnings) ) 
 #4 - Reveneue
 #5 - Expenses
+#6 - Cash reconciliation control accounts
 
 # 1010	Cash - BMO
 # 1020	Cash - DOINA account
