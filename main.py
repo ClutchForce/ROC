@@ -28,8 +28,8 @@ excel_file_path = "../Collections and Payments 2026.xlsx"  # Replace with the ac
 # Call the function
 print_excel_content(excel_file_path, sheet_name="Jan 2026")  # Replace "Sheet1" with the actual sheet name if needed
 
-#1-5 can be both debit and credit
-# Both credit and depit positive. D\C 
+# 1-6 can be both debit and credit
+# Keep both credit and depit positive. D\C 
 
 # Chart of Accounts Codes
 #1 - Assets
